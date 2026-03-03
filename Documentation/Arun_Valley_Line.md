@@ -6,7 +6,7 @@ The Arun Valley Line is the direct route between Three Bridges on the Brighton M
 
 ## Simulation
 
-A timetable representing Wednesday 4th February 2026 has been included, starting at 03:45 and running until the final service at roughly 01:30. Most Southern services through Horsham split or join, and several engineering trains are thrown in for variety.
+A timetable representing Wednesday 4th March 2026 has been included, starting at 03:45 and running until the final service at roughly 01:30. Most Southern services through Horsham split or join, and several engineering trains are thrown in for variety.
 
 The standard off peak service pattern is as follows:
 
